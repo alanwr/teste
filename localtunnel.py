@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1NdAlpTXXNtCG1uCFZkMyrhVpYp_2tQ0l
 """
 
-!pip install streamlit
+pip install streamlit
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py 
@@ -194,5 +194,5 @@ Original file is located at
 # 
 #
 
-!streamlit run app.py & npx localtunnel --port 8501
+streamlit run app.py & npx localtunnel --port 8501
 
