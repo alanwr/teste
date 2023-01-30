@@ -190,7 +190,6 @@ Original file is located at
 #     st.pyplot(width=800)
 #     pass
 # 
-# streamlit run app.py & npx localtunnel --port 8501
 
 
 
