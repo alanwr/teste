@@ -189,7 +189,7 @@ Original file is located at
 #     
 #     st.pyplot(width=800)
 #     pass
-# streamlit run trader_objetivo.py & npx trader_objetivo --port 8501
+# streamlit run trader_objetivo.py --port 8501
 
 
 
